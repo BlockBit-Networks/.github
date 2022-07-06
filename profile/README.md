@@ -21,3 +21,5 @@ We are creating a blockchain based social netowrking forum. It is in development
 If and when the blockchain technology becomes affordable to us (the forum is `region limited` as of now due to `budget constraints`), we will migrate it to WEB3.0<br>
 <br>
 Be sure to start using it and improving it as soon as it is made available.
+
+**<ins>Update</ins> :** First beta is live here -> https://the-social-network-lake.vercel.app/
