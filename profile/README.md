@@ -16,9 +16,9 @@ Our main focus is to push the development of Web 3.0, and on our journey, we loo
 <br>
 
 ## Anouncement
-We are creating a blockchain based social netowrking forum. It is in development as of now. We will host it on github as a trial.<br>
+We are creating a blockchain based social netowrking forum. It is in development as of now. We will host it on vercel as a trial.<br>
 <br>
-If and when the blockchain technology becomes affordable to us ( the forum is `region limited` as of now due to `budget constraints` ), we will migrate it to WEB 3.0<br>
+If and when the blockchain technology becomes affordable to us ( the forum is `region limited` as of now due to `budget constraints` ), we will migrate it to **WEB 3.0**<br>
 <br>
 Be sure to start using it and improving it as soon as it is made available.
 
