@@ -16,10 +16,18 @@ Our main focus is to push the development of Web 3.0, and on our journey, we loo
 <br>
 
 ## Anouncement
-We are creating a blockchain based social netowrking forum. It is in development as of now. We will host it on vercel as a trial.<br>
+We are creating a **BLOCKCHAIN** based **SOCIAL NETWORK**.<br>
+Ethereum blockchain is being used and the entire backend is supposed to be on smart contracts, using `Solidity`.<br>
 <br>
-If and when the blockchain technology becomes affordable to us ( the forum is `region limited` as of now due to `budget constraints` ), we will migrate it to **WEB 3.0**<br>
+The goal is to develop an open-source social media platform that <br>
+* is anonymous
+* is completely free of monopolistic moderation, i.e., it will be moderated by the community itself
+* rewards original content creators
+* provides actual freedom of expression (removes State or MNC controlled censorship)
+* is capable of stopping plagiarism
+* enables direct interaction (payment) between users thus eliminating dependancy on State
 <br>
-Be sure to start using it and improving it as soon as it is made available.
 
+<!--
 **<ins>Update</ins> :** First beta is live here -> https://the-social-network-lake.vercel.app/
+!-->
