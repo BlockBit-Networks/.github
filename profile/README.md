@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/30381993/174809534-35ce5e28-d6a2-420f-9dae-087f66ac815a.jpeg" width="100%">
 
-# Hey everyone 👋
+# Hey Everyone 👋
 Welcome to the **BlockBit `<codebase>`**
 <br>
 <br>
