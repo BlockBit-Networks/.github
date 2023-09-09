@@ -21,6 +21,7 @@ Ethereum blockchain is being used and the entire backend is supposed to be on sm
 <br>
 The goal is to develop an open-source social media platform that <br>
 * is anonymous
+* is decentralized
 * is completely free of monopolistic moderation, i.e., it will be moderated by the community itself
 * rewards original content creators
 * provides actual freedom of expression (removes State or MNC controlled censorship)
